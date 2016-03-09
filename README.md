@@ -13,5 +13,3 @@ Learnt jQuery UI by building webpages using
 * datepicker
 
 * tabs widget
-
- 
